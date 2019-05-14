@@ -1,0 +1,2 @@
+# stockAnalysic
+stock analysic software
